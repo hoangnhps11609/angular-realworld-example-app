@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "slug": "Title1-1850",
+      "title": "Title1",
+      "description": "Description",
+      "body": "Body",
+      "tagList": [],
+      "createdAt": "2022-05-04T08:20:53.959Z",
+      "updatedAt": "2022-05-04T08:20:53.959Z",
+      "favorited": false,
+      "favoritesCount": 1,
+      "author": {
+        "username": "artem",
+        "bio": "knsdsadsdsadas",
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "following": false
+      }
+    },
+    {
+      "slug": "Title12-1850",
+      "title": "Title12",
+      "description": "Description",
+      "body": "Body",
+      "tagList": [],
+      "createdAt": "2022-05-04T08:20:14.938Z",
+      "updatedAt": "2022-05-04T08:20:14.938Z",
+      "favorited": false,
+      "favoritesCount": 5,
+      "author": {
+        "username": "artem",
+        "bio": "knsdsadsdsadas",
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 2
+}
